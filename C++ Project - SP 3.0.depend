@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1546476061 source:c:\users\adam\documents\c++ project - sp 3.0\main.cpp
+	<iostream>
+	"windows.h"
+	<ctime>
+	<string>
+	<conio.h>
+	<dos.h>
+	<fstream>
+	"MMSystem.h"
+	<thread>
+	<cstdlib>
+	<stdio.h>
+	<unistd.h>
+	<time.h>
+	<chrono>
+	<cmath>
+
+1545526292 source:c:\users\amacarter\documents\c++ project - sp 3.0\main.cpp
+	<iostream>
+	"windows.h"
+	<ctime>
+	<string>
+	<conio.h>
+	<dos.h>
+	<fstream>
+	"MMSystem.h"
+	<thread>
+	<atomic>
+	<cstdlib>
+	<stdio.h>
+	<unistd.h>
+	<time.h>
+	<chrono>
+	<cmath>
+
